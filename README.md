@@ -70,3 +70,7 @@ MIT &copy; [GeekPlux](https://github.com/geekplux)
 2.代理
 3.目录结构
 #####TODOLIST-->
+登录信息存储在cookie（页面使用）
+接口调用都加入head中
+页面调用服务接口  从cookie取信息
+Node调用服务接口 从cookie取信息
